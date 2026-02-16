@@ -103,4 +103,4 @@ Project Type: Academic Project
 
 ## Author
 
-Your Name
+Farangiz Bekmurodova
